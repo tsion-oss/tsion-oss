@@ -6,5 +6,9 @@
 
 Full stack software engineer who is imaginative, dedicated, and passionate. My artistic background sharpened my eye for detail, nurtured my creativity, and enabled me to effortlessly bridge the gap between creativity and functionality. I take pride in my ability to construct with precision, finding genuine joy in the process of building remarkable things.
 
+```
+aboutMe: {
+}
+```
 
  
