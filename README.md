@@ -2,9 +2,8 @@
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tsion.wondimu.16/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tsion_wmolla/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tsionmolla/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@itszionmolla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TsionWendm98008) 
-<p align="center">
 ![Tsion Molla](https://github.com/tsion-oss/tsion-oss/assets/114117480/c96d71d2-2fa5-48f9-a01a-31dc12b173f8)
-   </p>
+   
 
 
 ```javascript
@@ -43,13 +42,7 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsion-oss&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="path/to/your/image.png" alt="Profile Picture" width="200" />
-</p>
 
-## About Me
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac hendrerit arcu. Integer at ligula sed nulla consequat tristique.
 ---
 
 
