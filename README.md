@@ -41,6 +41,13 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsion-oss&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="path/to/your/image.png" alt="Profile Picture" width="200" />
+</p>
+
+## About Me
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac hendrerit arcu. Integer at ligula sed nulla consequat tristique.
 ---
 
 
