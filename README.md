@@ -32,15 +32,13 @@ const aboutMe = {
 <br>
  ### GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=tsion-oss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tsion-oss&theme=tokyonight&hide_border=false)<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsion-oss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsion-oss&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsion-oss&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
