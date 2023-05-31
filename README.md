@@ -33,9 +33,6 @@ const aboutMe = {
  ### GitHub Stats:
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsion-oss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="450">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsion-oss&layout=compact&theme=tokyonight" alt="Top Languages" />
