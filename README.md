@@ -1,5 +1,8 @@
 ## Hey, I'm Tsion👩‍💻
-A full-stack software engineer who is imaginative, dedicated, and passionate. My artistic background sharpened my eye for detail, nurtured my creativity, and enabled me to bridge the gap between creativity and functionality effortlessly. With strong communication skills and a detail-oriented approach, I am dedicated to producing high-quality code and exceeding user expectations.
+A full-stack software engineer who is imaginative, dedicated, and passionate. My artistic background sharpened
+my eye for detail, nurtured my creativity, and enabled me to bridge the gap between creativity and functionality 
+effortlessly. With strong communication skills and a detail-oriented approach, I am dedicated to producing 
+high-quality code and exceeding user expectations.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tsion.wondimu.16/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tsion_wmolla/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsionmolla/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@itszionmolla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TsionWendm98008)
 
